@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hamish-hutton.git/static/css/main.317ddcd4.css",
+    "main.js": "/hamish-hutton.git/static/js/main.40607d63.js",
+    "static/js/787.31147df7.chunk.js": "/hamish-hutton.git/static/js/787.31147df7.chunk.js",
+    "static/media/hamish.png": "/hamish-hutton.git/static/media/hamish.0c89a9d1d3a637689ea2.png",
+    "index.html": "/hamish-hutton.git/index.html",
+    "main.317ddcd4.css.map": "/hamish-hutton.git/static/css/main.317ddcd4.css.map",
+    "main.40607d63.js.map": "/hamish-hutton.git/static/js/main.40607d63.js.map",
+    "787.31147df7.chunk.js.map": "/hamish-hutton.git/static/js/787.31147df7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.317ddcd4.css",
+    "static/js/main.40607d63.js"
+  ]
+}
