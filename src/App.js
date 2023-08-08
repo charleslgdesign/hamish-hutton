@@ -11,21 +11,9 @@ function App() {
   return (
     <div className="App">
       <Routes>
-      <Route path="home" element={<Home />} />
+      <Route basename={process.env.PUBLIC_URL} path="home" element={<Home />} />
         <Route path="about" element={<About />} />
       </Routes>
-   {/* <body>
-  
-    <div className='grid'>
-    <div className='grid-item'>
-        <img class='image' src={img} className="hamish" alt="logo" />
-      </div>
-        <div className='grid-item'>
-        My name is hamish and I'm an aspiring artist, based from Te Whanganui A Tara <br/><br/>
-         <Link to="/about">About</Link>
-    </div>
-    </div>
-         </body> */}
          <div className='footer'></div>
     </div>
  
