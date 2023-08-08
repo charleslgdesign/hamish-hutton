@@ -18,7 +18,7 @@ function About() {
   
     <div className='grid'>
     <div className='grid-item'>
-        <img class='image' src={img} className="hamish" alt="logo" />
+        <img src={img} className="hamish" alt="logo" />
       </div>
         <div className='grid-item'>
         <b>love-2.c.you here.</b>
